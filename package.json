@@ -1,7 +1,7 @@
 {
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
   "tag":"loadTest",
-  "affiliates":["asdf","lots"],
+  "affiliates":["asdf","lots1"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
